@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341914219531",
+    "firebase_url": "https://shop-guru-b1935.firebaseio.com",
+    "project_id": "shop-guru-b1935",
+    "storage_bucket": "shop-guru-b1935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341914219531:android:d888ffc139293201",
+        "android_client_info": {
+          "package_name": "com.example.shopguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341914219531-b5m1cl2h92hkfgic8lqedu0kmm1meq8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopguru",
+            "certificate_hash": "d021866eb652e4fcd54e874ead4ab8d84dc27674"
+          }
+        },
+        {
+          "client_id": "341914219531-24qv172h9166m6al2toj8flthli6sev1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpglLloj0MuDacHZX90x24q4ozdlEEQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341914219531-24qv172h9166m6al2toj8flthli6sev1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
